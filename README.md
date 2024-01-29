@@ -1,6 +1,6 @@
 # Global Airport Information Database
 
-Welcome to the Global Airport Information repository! This project is an extensive collection of data on airports worldwide. It includes key details such as:
+Welcome to the Global Airport Information repository! This project is a comprehensive collection of airport data from around the world, freely available for public use. It includes:
 
 - IATA and ICAO codes
 - Airport names
